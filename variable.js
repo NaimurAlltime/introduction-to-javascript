@@ -1,3 +1,11 @@
+// Numeric
 var id = 101;
-var name = "Naimur";
 var age = 21;
+
+// String 
+var name = "Naimur Rahman";
+var address = "Dhaka";
+
+// Boolean 
+var x = true;
+var y = false;
